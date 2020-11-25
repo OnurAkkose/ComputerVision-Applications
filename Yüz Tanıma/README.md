@@ -1,3 +1,4 @@
+## This repo was trained pretrained Facenet model and it recognizes the faces.
 ## Facenet önceden eğitilmiş ağırlıklar kullanılarak yüz tanıma yapmaktadır. 
 ## Tkinter ile oluşturduğum ara yüz üzerinden yüzünüzü dosyaya kaydedebilir ve daha sonra modelin sizi tanımasını sağlayabilirsiniz.
 
